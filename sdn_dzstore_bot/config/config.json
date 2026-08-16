@@ -1,0 +1,43 @@
+{
+  "bot": {
+    "token": "",
+    "client_id": "",
+    "guild_id": ""
+  },
+  "store": {
+    "name": "SDN DayZ Store",
+    "server_name": "SDN DayZ Server",
+    "logo_url": "",
+    "currency_name": "Coins",
+    "currency_symbol": "🪙"
+  },
+  "colors": {
+    "primary": "#5865F2",
+    "success": "#57F287",
+    "warning": "#FEE75C",
+    "error": "#ED4245",
+    "info": "#5865F2"
+  },
+  "channels": {
+    "logs": "",
+    "welcome": "",
+    "admin_logs": ""
+  },
+  "roles": {
+    "admin": [],
+    "moderator": [],
+    "support": []
+  },
+  "api": {
+    "enabled": false,
+    "url": "",
+    "key": "",
+    "timeout": 30
+  },
+  "features": {
+    "cart_enabled": true,
+    "coupons_enabled": true,
+    "gift_cards_enabled": false,
+    "transfers_enabled": false
+  }
+}
